@@ -42,4 +42,4 @@ DWFA a besoin aujourd'hui d'un tableau de bord qui répond aux critères suivant
 
 ## Lien vers le dashboard
 
-[](https://public.tableau.com/app/profile/l.a.cruder/viz/P8_Cruder_lea_etude_eau_potable/Cruder_Lea_Etude_eau_potable?publish=yes)
+[Cliquez ici](https://public.tableau.com/app/profile/l.a.cruder/viz/P8_Cruder_lea_etude_eau_potable/Cruder_Lea_Etude_eau_potable?publish=yes)
