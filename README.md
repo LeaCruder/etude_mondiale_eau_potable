@@ -1,4 +1,6 @@
-# ![image](https://github.com/user-attachments/assets/561b30bf-e4da-4a60-b903-3a25828eb6ab)    Création d'un tableau de bord pour l'association DWFA 
+![image](https://github.com/user-attachments/assets/2cb82471-a0e9-4d23-935c-41752db96063)
+
+# Création d'un tableau de bord pour une association
 
 
 ## Contexte 
