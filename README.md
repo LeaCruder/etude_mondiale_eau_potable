@@ -5,8 +5,7 @@
 
 ## Contexte 
 
-Puisque la Terre est recouverte à 70% d’eau, on  la surnomme souvent **« la planète bleue »**. 
-
+Puisque la Terre est recouverte à 70% d’eau, on  la surnomme souvent *« la planète bleue »*. 
 Et pourtant, presque **750 millions de personnes** manquent d’accès à l’eau potable en 2015. 
 
 On pourrait donc se demander : **pourquoi ?**
