@@ -1,6 +1,5 @@
-# ![image](https://github.com/user-attachments/assets/561b30bf-e4da-4a60-b903-3a25828eb6ab) Création d'un tableau de bord pour l'association DWFA 
+# ![image](https://github.com/user-attachments/assets/561b30bf-e4da-4a60-b903-3a25828eb6ab)    Création d'un tableau de bord pour l'association DWFA 
 
---- 
 
 ## Contexte 
 
@@ -15,5 +14,3 @@ On recense en 2016 un total de près de 900 000 morts dues à l’eau insalubre.
 
 L’eau est  donc une ressource rare qui doit être mieux gérée.
 C’est un véritable enjeu qui est défendu par des associations telles que Drinking Water For All (DWFA).
-
-
