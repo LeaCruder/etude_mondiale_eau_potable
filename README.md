@@ -16,8 +16,6 @@ L’eau douce, donc l’eau potable,  représente moins de 2,5 % de la totalité
 
 
 Une autre problématique est également présente, les **maladies hydriques**.
-![image](https://github.com/user-attachments/assets/c53fe1a2-4ffd-4903-bea2-565ee57b8af9)
-
 
 Par manque d’accès à l’eau de qualité, **3.5 milliards de personnes** boivent une eau potentiellement dangereuse pour leur santé. 
 On recense en 2016 un total de près de 900 000 morts dues à l’eau insalubre.
@@ -39,3 +37,5 @@ DWFA a besoin aujourd'hui d'un tableau de bord qui répond aux critères suivant
 - accessible depuis n'importe où
 - présentant une vue globale de l'accès à l'**eau potable** pour **chacun des domaines**
 - 3 vues sont demandées : une mondiale, une continentale, et une nationale
+- 5 indicateurs spécifiques devront apparaître pour chaque domaine d'expertise
+- de couleur bleue, faisant référence à l'eau
